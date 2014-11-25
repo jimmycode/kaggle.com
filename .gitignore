@@ -1,5 +1,6 @@
 **/.DS_Store
 digit-recognizer/data/
+avazu-ctr-prediction/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -55,4 +56,3 @@ docs/_build/
 
 # PyBuilder
 target/
->>>>>>> d7c7d0224737245836432009da106840f1822c7f
