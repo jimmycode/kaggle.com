@@ -6,8 +6,7 @@
     <ProjectGuid>{660aa94d-0824-4387-a84f-5c946e9eb138}</ProjectGuid>
     <ProjectHome />
     <StartupFile>BagOfWords.py</StartupFile>
-    <SearchPath>
-    </SearchPath>
+    <SearchPath>..\data\</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
