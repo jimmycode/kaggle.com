@@ -1,6 +1,7 @@
 **/.DS_Store
 digit-recognizer/data/
 avazu-ctr-prediction/data
+word2vec-nlp-tutorial/data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
