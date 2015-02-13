@@ -28,7 +28,7 @@ if __name__ == '__main__':
     raw_input("Press Enter to continue...")
 
 
-    print 'Download text data sets. If you already have NLTK datasets downloaded, just close the Python download window...'
+    # print 'Download text data sets. If you already have NLTK datasets downloaded, just close the Python download window...'
     # nltk.download()  # Download text data sets, including stop words
 
     # Initialize an empty list to hold the clean reviews

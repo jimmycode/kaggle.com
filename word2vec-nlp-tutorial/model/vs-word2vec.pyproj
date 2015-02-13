@@ -5,7 +5,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{660aa94d-0824-4387-a84f-5c946e9eb138}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>BagOfWords.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>..\data\</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>

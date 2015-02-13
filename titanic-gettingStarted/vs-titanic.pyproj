@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{42c3f853-a0e7-459b-ba83-fb9e0578c060}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>genderclassmodel.py</StartupFile>
+    <StartupFile>myfirstforest.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

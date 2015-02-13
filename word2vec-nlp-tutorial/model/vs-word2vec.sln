@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "vs-word2vec", "vs-word2vec.pyproj", "{660AA94D-0824-4387-A84F-5C946E9EB138}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "my_code", "..\my_code\my_code.pyproj", "{31393532-39D1-4503-A205-0CD156C5323F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{660AA94D-0824-4387-A84F-5C946E9EB138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{660AA94D-0824-4387-A84F-5C946E9EB138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31393532-39D1-4503-A205-0CD156C5323F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31393532-39D1-4503-A205-0CD156C5323F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
